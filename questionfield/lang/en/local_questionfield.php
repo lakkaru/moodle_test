@@ -1,4 +1,8 @@
 <?php
-$string['pluginname'] = 'Question Field';
-$string['questionnumber'] = 'Question number';
-$string['questionnumber_help'] = 'A custom number to identify this question.';
+// local/questionfield/lang/en/local_questionfield.php
+
+defined('MOODLE_INTERNAL') || die();
+
+$string['pluginname'] = 'Question Number Field';
+$string['questionfield'] = 'Question Number';
+$string['questionfield_help'] = 'Enter a unique number or identifier for this question.';
